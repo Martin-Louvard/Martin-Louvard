@@ -1,7 +1,12 @@
-# Freelance web developer and student at Ecole 42
-
-[![malouvar's 42 stats](https://badge42.vercel.app/api/v2/cl1xak1m0004509i4gmeppeym/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-
+Solutions Architect at  · Paris, France
+ 
+I build fullstack products with TypeScript and ship them with AI-assisted workflows. My background combines technical training at **École 42** with a business degree, which shapes how I approach software — always at the intersection of engineering and product strategy.
+ 
+## What I do
+ 
+I design and build web & mobile applications end-to-end: architecture, development, and delivery. My current focus is **AI-first development** — structuring codebases, specs, and workflows so that AI agents (Claude Code, Cursor) produce production-grade output from day one.
+ 
+**Stack:** TypeScript · React · Next.js · React Native / Expo · NestJS · Prisma · Supabase · Tailwind · shadcn/ui
 <!--
 **Martin-Louvard/Martin-Louvard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

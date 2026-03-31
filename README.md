@@ -1,4 +1,4 @@
-Solutions Architect at  · Paris, France
+Solutions Architect / Builder  · Paris, France
  
 I build fullstack products with TypeScript and ship them with AI-assisted workflows. My background combines technical training at **École 42** with a business degree, which shapes how I approach software — always at the intersection of engineering and product strategy.
  
